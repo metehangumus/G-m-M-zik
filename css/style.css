@@ -1,0 +1,54 @@
+body {
+  font-family: "Times New Roman", Times, sans-serif;
+  margin: 0px;
+  border: 0px;
+}
+
+.header {
+  background-color: red;
+}
+
+ul {
+  color: black;
+  list-style-type: none;
+}
+.section {
+  padding-left: 10px;
+}
+.section2 {
+  background-color: white;
+  text-align: center;
+}
+
+.title {
+  padding-top: 10px;
+  text-align: center;
+}
+.nav {
+  margin-left: 3px;
+}
+h2 {
+  color: aqua;
+}
+
+.text-red {
+  color: red;
+}
+
+#first {
+  color: black;
+}
+.kayıt {
+  padding: 5px;
+}
+.section3 {
+  margin-right: 500px;
+}
+.button {
+  width: 100px;
+  height: 20px;
+  padding-right: 0px;
+}
+#btt {
+  padding-left: 100px;
+}
